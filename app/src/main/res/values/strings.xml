@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PKBM Darul Falah</string>
+    <string name="daftar">
+
+        Daftar
+    </string>
+    <string name="laman_utama">
+
+    Laman Utama
+    </string>
+</resources>
